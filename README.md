@@ -134,4 +134,5 @@ The dashboard includes:
 
 <img width="1420" height="639" alt="image" src="https://github.com/user-attachments/assets/b94eb14c-15ea-467a-859e-67db0ca0412c" />
 
+<img width="1909" height="640" alt="image" src="https://github.com/user-attachments/assets/00487317-d2b2-480e-a51f-77f7127c500c" />
 
