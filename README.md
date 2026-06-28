@@ -127,5 +127,10 @@ The dashboard includes:
 
 ---
 
+## Screenshots
+
+<img width="646" height="577" alt="image" src="https://github.com/user-attachments/assets/5c574167-1faa-4cff-9508-3cbae0987326" />
+
+
 
 
